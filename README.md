@@ -55,6 +55,7 @@ flowchart TD
     A -->|has| E[Subscription]
     B -->|delivered by| F[Delivery]
     B -->|paid via| G[Payment]
+```
 
 ---
 
