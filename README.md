@@ -1,7 +1,7 @@
 # CloudGourmet
 Database Design & ERD (PostgreSQL)
 
-This repository contains the deliverables for **Assignment 1 – CloudGourmet**, focusing on database design, entity-relationship modeling, and schema planning using PostgreSQL and pgAdmin.
+This repository contains the deliverables for **CloudGourmet**, focusing on database design, entity-relationship modeling, and schema planning using PostgreSQL and pgAdmin.
 
 The system is based on a **meal-kit subscription platform**, designed to handle customers, orders, recipes, ingredients, and delivery logistics.
 
